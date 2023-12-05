@@ -1,0 +1,14 @@
+/Users/vatsalgayakwad/Documents/Playground_C#/New_C#/obj/Debug/net8.0/New_C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vatsalgayakwad/Documents/Playground_C#/New_C#/obj/Debug/net8.0/New_C#.AssemblyInfoInputs.cache
+/Users/vatsalgayakwad/Documents/Playground_C#/New_C#/obj/Debug/net8.0/New_C#.AssemblyInfo.cs
+/Users/vatsalgayakwad/Documents/Playground_C#/New_C#/obj/Debug/net8.0/New_C#.csproj.CoreCompileInputs.cache
+/Users/vatsalgayakwad/Documents/Playground_C#/New_C#/bin/Debug/net8.0/New_C#
+/Users/vatsalgayakwad/Documents/Playground_C#/New_C#/bin/Debug/net8.0/New_C#.deps.json
+/Users/vatsalgayakwad/Documents/Playground_C#/New_C#/bin/Debug/net8.0/New_C#.runtimeconfig.json
+/Users/vatsalgayakwad/Documents/Playground_C#/New_C#/bin/Debug/net8.0/New_C#.dll
+/Users/vatsalgayakwad/Documents/Playground_C#/New_C#/bin/Debug/net8.0/New_C#.pdb
+/Users/vatsalgayakwad/Documents/Playground_C#/New_C#/obj/Debug/net8.0/New_C#.dll
+/Users/vatsalgayakwad/Documents/Playground_C#/New_C#/obj/Debug/net8.0/refint/New_C#.dll
+/Users/vatsalgayakwad/Documents/Playground_C#/New_C#/obj/Debug/net8.0/New_C#.pdb
+/Users/vatsalgayakwad/Documents/Playground_C#/New_C#/obj/Debug/net8.0/New_C#.genruntimeconfig.cache
+/Users/vatsalgayakwad/Documents/Playground_C#/New_C#/obj/Debug/net8.0/ref/New_C#.dll
